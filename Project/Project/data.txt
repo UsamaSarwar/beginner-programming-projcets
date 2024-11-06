@@ -1,0 +1,16 @@
+Winner is:	Ali Raza
+Player 1 is:	Danish Rahim
+Player 2 is:	Hussnain Amin
+Winner is:	Danish Rahim
+Player 1 is:	Ali Raza
+Player 2 is:	Talha Tariq
+Winner is:	Talha Tariq
+Player 1 is:	Hamza Yousaf
+Player 2 is:	Haris Hari
+Game Draw
+Player 1 is:	Junaid Abbas
+Player 2 is:	Farhan Iqbal
+Winner is:	Farhan Iqbal
+Player 1 is:	asad
+Player 2 is:	fahad
+Winner is:	asad
